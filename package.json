@@ -1,0 +1,10 @@
+{
+  "name": "fadian",
+  "author": "YidaozhanYa",
+  "description": "JavaScript version of afadian/fadian.",
+  "version": "0.0.1",
+  "main": "dist/fadian.js",
+  "engines": {
+    "node": ">=7.0.0"
+  }
+}
